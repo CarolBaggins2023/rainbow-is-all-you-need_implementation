@@ -1,0 +1,33 @@
+{
+    "batch_size":	32,
+    "device":	"cuda",
+    "discount_factor":	0.99,
+    "exp_name":	"DQN_CartPole",
+    "logger":	{
+        "<log_data.EpochLogger object at 0x0000021A8670A250>":	{
+            "epoch_dict":	{},
+            "exp_name":	"DQN_CartPole",
+            "first_row":	true,
+            "log_current_row":	{},
+            "log_headers":	[],
+            "output_dir":	"./data/2023-05-18_17-46-50_DQN_CartPole\\2023-05-18_17-46-50-DQN_CartPole_s0",
+            "output_file":	{
+                "<_io.TextIOWrapper name='./data/2023-05-18_17-46-50_DQN_CartPole\\\\2023-05-18_17-46-50-DQN_CartPole_s0\\\\progress.txt' mode='w' encoding='cp936'>":	{
+                    "mode":	"w"
+                }
+            }
+        }
+    },
+    "logger_kwargs":	{
+        "exp_name":	"DQN_CartPole",
+        "output_dir":	"./data/2023-05-18_17-46-50_DQN_CartPole\\2023-05-18_17-46-50-DQN_CartPole_s0"
+    },
+    "lr":	0.001,
+    "make_env":	"<function main.<locals>.<lambda> at 0x0000021A86714820>",
+    "num_epochs":	10,
+    "num_test_episodes":	10,
+    "replay_buffer_capacity":	1000,
+    "save_freq":	1,
+    "seed":	0,
+    "steps_per_epoch":	4000
+}

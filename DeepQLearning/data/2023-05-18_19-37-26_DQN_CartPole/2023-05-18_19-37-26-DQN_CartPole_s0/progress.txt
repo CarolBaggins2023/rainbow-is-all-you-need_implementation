@@ -1,0 +1,2 @@
+Epoch	Episode_Reward	Episode_Len	Test_Episode_Reward	Test_Episode_Len	Total_Interactions	Action_Value	TD_Target	Loss	Epsilon	Time
+1	15.026315789473685	15.026315789473685	8.0	8.0	3999	[9.78148233]	9.793342836441532	6.286519696635585	0.3267011027182302	14.268240690231323
