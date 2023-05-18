@@ -1,2 +1,0 @@
-Epoch	AverageEpisode_Reward	StdEpisode_Reward	MaxEpisode_Reward	MinEpisode_Reward	Episode_Len	AverageTest_Episode_Reward	StdTest_Episode_Reward	MaxTest_Episode_Reward	MinTest_Episode_Reward	Test_Episode_Len	Total_Interactions	AverageAction_Value	StdAction_Value	MaxAction_Value	MinAction_Value	AverageLoss	StdLoss	MaxLoss	MinLoss	Time
-1	21.27127659574468	25091.164	74.0	8.0	21.27127659574468	1.6	230.39998	16.0	0.0	2.5	3999	[1.00203662]	[329.03260332]	[2.1080933]	[-0.05010854]	0.0031767002036494595	5.66501	1.044885	0.00026247604	12.652437210083008
